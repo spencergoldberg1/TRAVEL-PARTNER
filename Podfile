@@ -20,5 +20,6 @@ target 'Travel Partner' do
   pod 'PhoneNumberKit', '~> 3.3'
   pod 'Mantis', '~> 1.9.0'
   pod 'PhoneNumberKit', '~> 3.3'
+  pod 'UberRides', '~> 0.9'
 end
   

@@ -876,6 +876,9 @@ PODS:
   - SDWebImage/Core (5.12.5)
   - SDWebImageSwiftUI (2.0.2):
     - SDWebImage (~> 5.10)
+  - UberCore (0.13.0)
+  - UberRides (0.13.0):
+    - UberCore
 
 DEPENDENCIES:
   - FBSDKLoginKit
@@ -895,6 +898,7 @@ DEPENDENCIES:
   - Mantis (~> 1.9.0)
   - PhoneNumberKit (~> 3.3)
   - SDWebImageSwiftUI
+  - UberRides (~> 0.9)
 
 SPEC REPOS:
   trunk:
@@ -943,6 +947,8 @@ SPEC REPOS:
     - PromisesObjC
     - SDWebImage
     - SDWebImageSwiftUI
+    - UberCore
+    - UberRides
 
 SPEC CHECKSUMS:
   abseil: ebe5b5529fb05d93a8bdb7951607be08b7fa71bc
@@ -990,7 +996,9 @@ SPEC CHECKSUMS:
   PromisesObjC: 99b6f43f9e1044bd87a95a60beff28c2c44ddb72
   SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
   SDWebImageSwiftUI: 8a3923c95108312b03a599ec1498754af55a6819
+  UberCore: 27cd75eff06f70c57897fa3dcec1eb015a8c24ad
+  UberRides: 6344d67ed1547b6b66c88f5c15dd659d9028217d
 
-PODFILE CHECKSUM: be7925dace56466dd63944ac2f68b438f21bb93f
+PODFILE CHECKSUM: 6ad5d468bd21e0e4e8036248db32b5bf291e2d8a
 
 COCOAPODS: 1.11.3
