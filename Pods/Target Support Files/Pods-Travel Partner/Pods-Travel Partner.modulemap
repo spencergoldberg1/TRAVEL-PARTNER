@@ -1,0 +1,6 @@
+framework module Pods_Travel_Partner {
+  umbrella header "Pods-Travel Partner-umbrella.h"
+
+  export *
+  module * { export * }
+}
