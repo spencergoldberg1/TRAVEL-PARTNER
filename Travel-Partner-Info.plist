@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.spencergoldberg.Travel-Partner</string>
+			</array>
+		</dict>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>uber</string>
+		<string>uberauth</string>
+	</array>
+	<key>UberCallbackURIs</key>
+	<array>
+		<dict>
+			<key>URIString</key>
+			<string>com.spencergoldberg.Travel-Partner://login</string>
+			<key>UberCallbackURIType</key>
+			<string>General</string>
+		</dict>
+	</array>
+	<key>UberClientID</key>
+	<string>n3WRYIECKK-4_hs5XMWaKQPXM0foxZa9</string>
+	<key>UberDisplayName</key>
+	<string>Travel Companion</string>
+</dict>
+</plist>
